@@ -1,6 +1,6 @@
 # Belimo Digital Ecosystem
 
-##The Niagara Driver for connecting to the Belimo Cloud API
+**The Niagara Driver for connecting to the Belimo Cloud API**
 The Belimo driver for Niagara framework allows N4 supervisor or Jace 8000 to display your Belimo Energy valve data.
 
 
