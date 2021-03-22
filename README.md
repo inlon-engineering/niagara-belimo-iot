@@ -6,38 +6,24 @@ The Belimo driver for Niagara framework allows N4 supervisor or Jace 8000 to dis
 
 ## Getting Started
 
-A step by step tutorial is available.
+A presentation document is available [here](_documentation/NiagaraBelimoConnectorPage.pdf).
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+Here the common requirements to work with this package.
+- A Workbench PC installation
+- A supervisor licensed installation
+- Enough licensed resource points
+- An active account on the Belimo Cloud
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+A step by step tutorial document is available [here](_documentation/NiagaraBelimoConnectorTutorial.pdf).
 
 
 ## Authors
 
-* **Mauro Raymondi**
+* **Mauro Raymondi** *Software architect*
 
 ## License
 
