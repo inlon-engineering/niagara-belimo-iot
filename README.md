@@ -7,7 +7,7 @@ It implements the Belimo Cloud API and it has been developed within the [Belimo 
 
 ## Niagara Marketplace free download
 
-The package moved to [Niagara Marketplace](https://www.niagaramarketplace.com/) where it can be download for free.
+The package moved to [Niagara Marketplace](https://www.niagaramarketplace.com/) where it can be downloaded for free.
 
 ## Authors
 
